@@ -20,7 +20,7 @@ A Dixi oferece um sistema completo de controle de ponto que trás soluções efi
   - Com relatórios personalizáveis, as empresas podem analisar a frequência, a pontualidade e o cumprimento das horas trabalhadas de forma precisa.
 
 - **Conformidade Legal:**
-  - O sistema e relógios também ajuda as empresas a estarem em conformidade com as leis trabalhistas, como as Portarias [1510](./portarias/1510), [671](./portarias/671) e [373](./portarias/373), garantindo o correto registro de ponto.
+  - O sistema e relógios também ajuda as empresas a estarem em conformidade com as leis trabalhistas, como as Portarias [1510](./portarias/1510.md), [671](./portarias/671.md) e [373](./portarias/373.md), garantindo o correto registro de ponto.
 
 ## Próximos Passos
 
