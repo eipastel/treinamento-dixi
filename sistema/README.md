@@ -5,7 +5,7 @@
 Nesta pasta, você encontrará informações sobre o sistema Web Dixi. 
 
 <p align="left">
-  <img src="https://github.com/eipastel/treinamento-dixi/assets/92560005/35df7b8f-fb0d-4133-a9dd-b63163adeb35" width="400" alt="Imagem Sistema">
+  <img src="../imagens/foto sistema.png" width="400" alt="Imagem Sistema">
 </p>
 
 ### O que é o Web Dixi?
@@ -34,8 +34,7 @@ Este sistema tem muitas funcionalidades para facilitar o controle e gestão de p
 #### Não se preocupe em fazer isso tudo agora, o nosso treinamento foi feito para te seguir durante todo esse processo!
 
 ### Próximos Passos:
-
-- [Primeiros Passos](./primeiros_passos.md)
+- [Continue sua integração](./primeiros_passos.md)
 - [Guia Avançado](./guia_avancado.md)
 - [Procedimentos](../procedimentos.md)
 

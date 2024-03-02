@@ -1,1 +1,0 @@
-[Retornar para o cadastro de horário](./primeiros_passos.md)
