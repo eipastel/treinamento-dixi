@@ -1,4 +1,4 @@
-# WIKI DIKI
+# 📕WIKI DIKI
 
 👋 **Bem-vindo à Documentação do Sistema de Controle de Ponto**
 
@@ -21,17 +21,17 @@ Aqui, você encontrará uma variedade de recursos úteis para ajudá-lo a navega
 
 ---
 
-O [Manual de Horários](#)  oferece informações detalhadas sobre como configurar e parametrizar os horários dos colaboradores em nosso sistema de controle de ponto. Se você precisa de orientação sobre como configurar horários, este é o lugar certo para começar.
+O [⏰Manual de Horários](#)  oferece informações detalhadas sobre como configurar e parametrizar os horários dos colaboradores em nosso sistema de controle de ponto. Se você precisa de orientação sobre como configurar horários, este é o lugar certo para começar.
 
 ---
 
-O [Manual de Comunicação](#) é um recurso vital para garantir um conhecimento sólido, eficaz e profissional com os clientes para como comunicar os nossos principais relógios.
+O [🛰️Manual de Comunicação](#) é um recurso vital para garantir um conhecimento sólido, eficaz e profissional com os clientes para como comunicar os nossos principais relógios.
 
 ---
 
-A seção de [Procedimentos](#) contém uma lista detalhada de procedimentos simples e/ou avançados que devem ser seguidos para resolver uma variedade de problemas comuns e complexos encontrados pelos clientes. Se você está procurando uma solução rápida e eficaz, consulte esta seção para obter orientação passo a passo.
+A seção de [📄Procedimentos](#) contém uma lista detalhada de procedimentos simples e/ou avançados que devem ser seguidos para resolver uma variedade de problemas comuns e complexos encontrados pelos clientes. Se você está procurando uma solução rápida e eficaz, consulte esta seção para obter orientação passo a passo.
 
 ---
 
-Nossa seção de [Dúvidas Frequentes](#) contém respostas para perguntas comuns e/ou avançadas e complexas sobre o uso do nosso sistema de controle de ponto. Se você está enfrentando um problema ou simplesmente quer saber mais sobre uma determinada funcionalidade, verifique esta seção para obter respostas rápidas com procedimentos na palma da sua mão.
+Nossa seção de [❓Dúvidas Frequentes](#) contém respostas para perguntas comuns e/ou avançadas e complexas sobre o uso do nosso sistema de controle de ponto. Se você está enfrentando um problema ou simplesmente quer saber mais sobre uma determinada funcionalidade, verifique esta seção para obter respostas rápidas com procedimentos na palma da sua mão.
 
