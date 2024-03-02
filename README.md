@@ -1,6 +1,6 @@
-# Treinamento de Integração - Dixi
+# 👋 Treinamento de Integração - Dixi
 
-Este é o repositório do treinamento de integração para os novos funcionários da <a target="_blank" href="https://www.dixiponto.com.br">Dixi</a>, onde trabalhamos com um sistema de gestão de ponto!
+Este é o repositório do treinamento de integração para os novos funcionários da <a target="_blank" href="https://dixiponto.com.br">Dixi</a>, onde trabalhamos com um sistema de gestão de ponto!
 
 A Dixi oferece um sistema completo de controle de ponto que trás soluções eficientes para empresas que buscam facilidade e precisão na gestão do horário de seus funcionários. Desde o registro eletrônico de ponto até a geração de relatórios detalhados, o **Web Dixi** é projetado para tornar o controle de ponto simples e eficaz.
 
