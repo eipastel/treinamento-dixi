@@ -26,7 +26,7 @@ A Dixi oferece um sistema completo de controle de ponto que trás soluções efi
 
 Para iniciar o treinamento e aprender mais sobre os conhecimentos básicos para atender os clientes, siga os links abaixo:
 
-- [Introdução](./sistema/introducao.md)
+- [Introdução ao Sistema](./sistema)
 - [Portarias](./portarias)
 - [Horários](./horarios/introducao.md)
 - [Comunicação](./equipamentos/guia_de_comunicacao.md)
