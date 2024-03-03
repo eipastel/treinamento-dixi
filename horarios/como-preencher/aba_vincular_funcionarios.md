@@ -1,0 +1,1 @@
+[Voltar para a tela anterior](../README.md#entendendo-o-cadastro-de-horário)

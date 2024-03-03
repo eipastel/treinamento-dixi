@@ -16,11 +16,11 @@ Nesta seção, você aprenderá a como cadastrar um horário de maneira iniciant
 
 1. No menu lateral, clique em ```Cadastro``` e depois ```Horário```.
 2. Em seguida, clique no ícone de ```+``` no canto superior direito.
-3. [Aprenda a como preencher a Aba ```Carga Horária```](./como-preencher/aba_carga_horaria.md).
-4. [Aprenda a como preencher a Aba ```Período```](./como-preencher/aba_periodo.md).
-5. [Aprenda a como preencher a Aba ```Políticas```](./como-preencher/aba_politicas.md).
-6. Pule a Aba ```Percentual Extra```.
-7. [Aprenda a como preencher a Aba ```Vincular Funcionários```](./como-preencher/aba_vincular_funcionarios.md).
+3. [Aprenda como preencher a Aba ```Carga Horária```](./como-preencher/aba_carga_horaria.md).
+4. [Aprenda como preencher a Aba ```Período```](./como-preencher/aba_periodo.md).
+5. [Aprenda como preencher a Aba ```Políticas```](./como-preencher/aba_politicas.md).
+6. Pule a Aba ```Percentual Extra``` por enquanto.
+7. [Aprenda como preencher a Aba ```Vincular Funcionários```](./como-preencher/aba_vincular_funcionarios.md).
 8. Clique em ```Finalizar```.
 
 

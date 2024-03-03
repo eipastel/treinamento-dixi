@@ -1,6 +1,6 @@
 ## Como Preencher a Aba '```Período```'
 
-[Voltar para a tela anterior](../README.md)
+[Voltar para a tela anterior](../README.md#entendendo-o-cadastro-de-horário)
 
 <p align="left">
   <img src="../../imagens/foto aba politicas.png" alt="Imagem Aba Políticas">
@@ -27,7 +27,7 @@ Essa opção irá configurar automaticamente alguns campos para o padrão previs
  - **Nome da Política:** Define o nome da política. Servirá para reutilizar essas configurações em políticas futuras.
 
  - **Situação Cadastro:** Escolha entre ```Ativo``` e ```Inativo```, por padrão ele será **Ativo**, caso selecione **Inativo**, o horário será desconsiderado.
- 
+
  - **Hora do Fechamento da Marcação:** Por padrão é ```00:00```, esse horário define quando o sistema irá considerar a troca de um dia para o outro, ou seja, caso o colaborador bata o ponto às 23:00 do dia 22/01 e depois bata novamente às 01:00 do dia 23/01, a marcação irá aparecer no dia 23/01. [Clique aqui para melhor entendimento.](./para-melhor-entendimento/hora_do_fechamento_da_marcacao.md)
 
 ### Seção Tolerância
@@ -60,6 +60,6 @@ nada ainda
 
 nada ainda
 
-Após finalizar essa Aba, clique em ```Continuar```.
+Após finalizar essa Aba, clique em ```Finalizar Políticas```.
 
-[Ir para a próxima Aba](./aba_politicas.md)
+[Ir para a próxima Aba](./aba_vincular_funcionarios.md)

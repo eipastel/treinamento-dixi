@@ -1,6 +1,6 @@
 # 📋 Portarias
 
-[Retornar para a página inicial](../)
+[Retornar para a página inicial](../README.md)
 
 Seja bem-vindo! Este guia aborda as portarias 1510, 671 e 373, importantes na legislação trabalhista relacionada ao controle de ponto. 
 
