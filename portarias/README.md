@@ -42,4 +42,4 @@ Portarias são documentos emitidos pelo governo para regulamentar determinadas l
 
 Explore cada uma das portarias para entender mais sobre suas especificações e importância para o controle de ponto.
 
-[Continue sua integração](../horarios)
+[Continue sua integração](../horarios/README.md)
