@@ -1,4 +1,4 @@
-# 👋 Treinamento de Integração - Dixi
+# 👋 Treinamento de Integração
 
 [Retornar para a página inicial](../README.md)
 

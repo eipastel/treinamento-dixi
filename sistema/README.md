@@ -2,7 +2,7 @@
 
 [Retornar para a página inicial](../)
 
-Nesta pasta, você encontrará informações sobre o sistema Web Dixi. 
+Nesta pasta, você encontrará informações básicas e iniciais sobre o sistema Web Dixi. 
 
 <p align="left">
   <img src="../imagens/foto sistema.png" width="400" alt="Imagem Sistema">
@@ -33,7 +33,7 @@ Este sistema tem muitas funcionalidades para facilitar o controle e gestão de p
 
 #### Não se preocupe em fazer isso tudo agora, o nosso treinamento foi feito para te seguir durante todo esse processo!
 
-### Próximos Passos:
+### Próximos Passos
 - [Continue sua integração](./primeiros_passos.md)
 - [Guia Avançado](./guia_avancado.md)
 - [Procedimentos](../procedimentos.md)

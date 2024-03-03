@@ -1,1 +1,1 @@
-[Retornar para o cadastro de funcionário](../primeiros_passos.md)
+[Retornar para o cadastro de horário](../primeiros_passos.md)

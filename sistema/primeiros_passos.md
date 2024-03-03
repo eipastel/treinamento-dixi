@@ -45,7 +45,7 @@ Estes cadastros são a base do funcionamento do sistema. Sem eles, o sistema nã
 2. Em seguida, clique no ícone de ```+``` no canto superior direito.
 3. [Siga os passos necessários](./demos/demo_horario.md)
 4. Finalize o cadastro clicando em ```Finalizar```.<br>
-[Clique aqui para saber mais](../horarios)
+[Clique aqui para saber mais sobre horários](../horarios)
 
 ### Como Cadastrar um Funcionário
 1. No menu lateral, clique em ```Cadastro``` e depois ```Funcionário```.
@@ -53,14 +53,14 @@ Estes cadastros são a base do funcionamento do sistema. Sem eles, o sistema nã
 3. [Siga os passos necessários](./demos/demo_funcionario.md)
 4. Finalize o cadastro clicando em ```Finalizar```.
 
-## Cadastros no Equipamentos
+## Cadastros no Equipamento
 
 Agora que você já realizou os 3 cadastros mais importantes no sistema, vamos avançar para as configurações no relógio. Essas configurações são fundamentais para garantir o correto funcionamento do sistema de ponto com o relógio físico.
 
 #### Lembrando que por enquanto vamos focar apenas nos cadastros principais do equipamento, como empregador, colaborador e biometria. Procedimentos mais avançados como comunicação nós não iremos verificar por enquanto.
 
 ### Como cadastrar o Empregador (Empresa)
-Para que os funcionários consigam registrar o ponto diretamente no relógio, é necessário realizar o cadastro de empresa (empregador) no próprio equipamento. Siga os passos abaixo para cadastrar um funcionário no relógio:
+Para que os funcionários consigam registrar o ponto diretamente no relógio, é necessário realizar o cadastro de empresa (empregador) no próprio equipamento. Siga os passos abaixo para cadastrar um empregador no relógio:
 1. No relógio, vá em ```Menu```.
 2. Em seguida, insira a **Senha** (111111) e **CPF** (265) padrões do relógio.
 3. Após, vá em ```Cadastros```.
@@ -68,12 +68,15 @@ Para que os funcionários consigam registrar o ponto diretamente no relógio, é
 5. [Siga preenchendo as informações necessárias](./demos/demo_empregador).
 
 ### Como cadastrar os Colaboradores (Funcionários)
-Para que os funcionários consigam registrar o ponto diretamente no relógio, é necessário realizar o cadastro de empresa (empregador) no próprio equipamento. Siga os passos abaixo para cadastrar um funcionário no relógio:
+Após o empregador, é necessário realizar o cadastro dos colaboradores (funcionários) no próprio equipamento. Siga os passos abaixo para cadastrar um colaborador no relógio:
 1. No relógio, vá em ```Menu```.
 2. Em seguida, insira a **Senha** (111111) e **CPF** (265) padrões do relógio.
 3. Após, vá em ```Cadastros```.
-4. Clique em ```Empregador```.
-5. [Siga preenchendo as informações necessárias](./demos/demo_empregador).
+4. Clique em ```Colaborador```.
+5. [Siga preenchendo as informações necessárias](./demos/demo_colaborador).
+
+### Como cadastrar as Biometrias (Digital ou Face)
+PROCEDIMENTOS
 
 Agora que você aprendeu os primeiros passos, explore as demais funcionalidades do "Web Dixi" e descubra como ele pode facilitar o controle de ponto da sua empresa!
 
