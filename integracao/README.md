@@ -32,6 +32,7 @@ Para iniciar o treinamento e aprender mais sobre os conhecimentos básicos para 
 - [Portarias](../portarias/README.md)
 - [Horários](../horarios/README.md)
 - [Comunicação](../equipamentos/README.md)
+- [Tallos](../atendimento/tallos.md)
 - [Atendimento](../atendimento/README.md)
 - [Boas Práticas](../boas_praticas.md)
 

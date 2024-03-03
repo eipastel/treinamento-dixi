@@ -1,6 +1,6 @@
 ## Como Preencher a Aba '```Carga Horária```'
 
-[Voltar para a tela anterior](../README.md#entendendo-o-cadastro-de-horário)
+[Voltar para a página anterior](./README.md#entendendo-o-cadastro-de-horário)
 
 <p align="left">
   <img src="../../imagens/foto aba carga horária.png" alt="Imagem Aba Carga Horária">

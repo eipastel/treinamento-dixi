@@ -1,6 +1,6 @@
 ## Como Preencher a Aba '```Período```'
 
-[Voltar para a tela anterior](../README.md#entendendo-o-cadastro-de-horário)
+[Voltar para a Aba anterior](./aba_carga_horaria.md)
 
 <p align="left">
   <img src="../../imagens/foto preenchendo aba período.png" alt="Imagem Aba Período">
