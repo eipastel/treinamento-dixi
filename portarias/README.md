@@ -30,15 +30,15 @@ Portarias são documentos emitidos pelo governo para regulamentar determinadas l
    - Estabelece requisitos para o registro eletrônico de ponto.
    - Determina a necessidade de equipamentos específicos, como os relógios de ponto homologados.
    - [Clique aqui para saber mais](./1510.md)
-   
-2. **Portaria 671:**
-   - Atualização da 1510, trazendo ajustes e especificações para os sistemas de controle de ponto eletrônico.
-   - [Clique aqui para saber mais](./671.md)
 
-3. **Portaria 373:**
+2. **Portaria 373:**
    - Trata do registro de ponto por exceção e do teletrabalho.
    - Permite que as empresas adotem o registro de ponto apenas em situações excepcionais, como horas extras ou faltas.
    - [Clique aqui para saber mais](./373.md)
+   
+3. **Portaria 671:**
+   - Atualização da 1510, trazendo ajustes e especificações para os sistemas de controle de ponto eletrônico.
+   - [Clique aqui para saber mais](./671.md)
 
 Explore cada uma das portarias para entender mais sobre suas especificações e importância para o controle de ponto.
 
