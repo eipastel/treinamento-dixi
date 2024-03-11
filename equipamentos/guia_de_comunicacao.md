@@ -154,7 +154,6 @@ Os procedimentos devem ser executados diretamente no equipamento físico ou alte
 FOTO WEB SERVER
 
 > Após atender ambos os requisitos [💡], passamos para os procedimentos necessários, então aqui está uma ordem cronológica das informações que devem ser verificadas e também os procedimentos que serão executados.
-> 
 
 1. O primeiro passo é acessar o ***web server*** do equipamento. Para isso, no seu navegador, vá na barra de pesquisa e digite o **“IP”**, localizado na ***FOTO 3***, **sem os zeros a esquerda**, segue exemplo:
 
@@ -182,12 +181,8 @@ FOTO WEB SERVER
 - **Eventos** ([NSR]() do equipamento).
 
     **Nesta tela, é recomendado salvar essas informações para caso precise futuramente.**
-
-    FOTO WEB SERVER
     
 5. Clicando na lateral esquerda em **`Comunicação`** você verá essa tela, é aqui que nós faremos a comunicação do equipamento, explicaremos abaixo como você irá preencher cada campo, mas sem especificações técnicas.
-
-    FOTO WEB SERVER
 
 ## CONFIGURAÇÕES COMUNICAÇÃO WEB SERVER
 
@@ -258,9 +253,8 @@ FOTO WEB SERVER
 Comunicando via WIFI teremos que fazer os procedimentos diretamente no equipamento físico, então nessa seção vamos passar os procedimentos de como proceder nesse caso:
 
 1. Inicialmente, na tela inicial de seu relógio clique na **`engrenagem`** no centro da tela ou então em **`MENU`** no teclado ao lado do numérico.
-2. Depois disso, colocamos a senha padrão: **`111111`** e o CPF padrão **`265`** para acessarmos o painel de configurações.
 
-    FOTO RELÓGIO
+2. Depois disso, colocamos a senha padrão: **`111111`** e o CPF padrão **`265`** para acessarmos o painel de configurações.
 
 3. Na sequência, clique no **`número 3`** do teclado numérico ou na própria tela em **`3- Comunic.`** para acessarmos as configurações de comunicação do equipamento.
 
@@ -272,7 +266,7 @@ Comunicando via WIFI teremos que fazer os procedimentos diretamente no equipamen
 
 7. Nessa etapa, é importante lembrarmos que para modificar o ***IP do servidor, PORTA e desativar o DNS***, temos que ir no **`9- modo cliente`**.
 
-    > Não tem muito o que explicar por aqui, apenas seguirmos esses próximos passos
+> Não tem muito o que explicar por aqui, apenas seguirmos esses próximos passos
 
 🚧 Caso o modo cliente esteja **ativo**, temos que desativá-lo e depois ativá-lo novamente para entrarmos nas configurações desejadas, então caso ele esteja ativo, clique nele, depois clique no **botão verde** para desativar e em seguida, clique em **`Modo Cliente`** **novamente**.
 
