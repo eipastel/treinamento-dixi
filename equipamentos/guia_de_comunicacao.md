@@ -8,6 +8,8 @@ Antes de seguirmos para as configurações essenciais e a ordem cronológica dos
 
 ### **— EQUIPAMENTOS**
 
+![foto equipamentos](https://github.com/eipastel/wiki-dixi/assets/92560005/b581ca1d-074d-46a0-be63-365054b3255e)
+
 ## IREP
 
 > Equipamento biométrico, com batida de ponto também pela matrícula e/ou crachá.
@@ -55,9 +57,10 @@ Os procedimentos devem ser executados diretamente no equipamento físico ou alte
 4. Na tela inicial, clique no ícone que está no canto inferior esquerdo da tela e também me envie uma foto.
 ```
 
--- 4 FOTOS DO EQUIPAMENTO
+<img width="250px" src="https://github.com/eipastel/wiki-dixi/assets/92560005/694eb0ce-2219-4a69-a926-591c95ed8157">
+</img>
 
-🔍 Clique duas vezes para ampliar a foto acima.
+🔍 Clique para ampliar a foto acima.
 
 ## 2. CADASTRO NO SISTEMA
 
