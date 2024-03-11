@@ -36,4 +36,6 @@ Para iniciar o treinamento e aprender mais sobre os conhecimentos básicos para 
 - [Atendimento](../atendimento/README.md)
 - [Boas Práticas](../boas_praticas.md)
 
+[Continue sua integração](../sistema/README.md)
+
 Cada um destes links leva a um documento específico com detalhes sobre os tópicos abordados no treinamento. Sinta-se à vontade para explorar, adquirir conhecimento técnico e aprender mais sobre como prestar um bom atendimento!

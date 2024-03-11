@@ -286,4 +286,4 @@ Comunicando via WIFI teremos que fazer os procedimentos diretamente no equipamen
 
 [— Coletor Facial](https://www.canva.com/design/DAF0U925HNg/7fGyu6YxZ9bNDiOo844H0Q/edit)
 
-[Continue sua integração]()
+[Continue sua integração](../atendimento/tallos.md)
