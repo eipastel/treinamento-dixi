@@ -36,7 +36,7 @@ Este sistema tem muitas funcionalidades para facilitar o controle e gestão de p
 ### Próximos Passos
 - [Continue sua integração](./primeiros_passos.md)
 - [Guia Avançado](./guia_avancado.md)
-- [Procedimentos](../procedimentos.md)
+- [Procedimentos](../procedimentos/README.md)
 
 Explore cada um dos tópicos para entender melhor como o sistema funciona.
 
